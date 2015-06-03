@@ -33,6 +33,9 @@
     <ClCompile Include="Problem2.cpp">
       <Filter>Source Files\ProblemSources</Filter>
     </ClCompile>
+    <ClCompile Include="Problem3.cpp">
+      <Filter>Source Files\ProblemSources</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Main.h">
@@ -45,6 +48,9 @@
       <Filter>Header Files\ProblemHeaders</Filter>
     </ClInclude>
     <ClInclude Include="Problem2.h">
+      <Filter>Header Files\ProblemHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="Problem3.h">
       <Filter>Header Files\ProblemHeaders</Filter>
     </ClInclude>
   </ItemGroup>

@@ -1,6 +1,6 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-#include "Problem2.h"
+#include "Problem3.h"
 
 #endif
