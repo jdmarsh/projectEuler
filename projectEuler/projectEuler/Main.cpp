@@ -2,6 +2,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << p1::solve(1000) << std::endl;
+    std::cout << p2::solve(4000000) << std::endl;
     return 0;
 }

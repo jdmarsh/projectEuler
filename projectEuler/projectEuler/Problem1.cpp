@@ -1,5 +1,4 @@
 #include "Problem1.h"
-#include "Utilities.h"
 
 unsigned p1::solve(unsigned maximum) {
     unsigned result = 0;
